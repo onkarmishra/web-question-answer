@@ -1,0 +1,6 @@
+# Ignore files related to API Key
+.env
+
+# Ignore text folder and processed folder
+processed/
+text/
