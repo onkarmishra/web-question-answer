@@ -26,11 +26,12 @@ C. Ask Questions - This is final step after we have completed previous 2 steps
 1. Update the question in ask_question.py
 2. Run python ask_question.py
 
-
-To Do:
-1. Take domain and full url from arguement
-2. Take questions from argument
-3. Create basic UI for the above
+```
+### My tasks
+- [ ] Take domain and full url from arguement
+- [ ] Input questions from argument
+- [ ] Create basic UI for the above
+```
 
 
 
