@@ -14,17 +14,17 @@ This repo is divided into 3 parts:
 A. Web Crawler
 1. pip install -r requirements.txt
 2. Update domain and full url in web_crawl.py
-3. Run python (web_crawl.py)
+3. Run python [web_crawl.py](web_crawl.py)
 
 This will save crawled texts into text/ folder
 
 B. Create Embeddings
 1. Update domain and full url in embeddings.py
-2. Run python (embeddings.py)
+2. Run python [embeddings.py](embeddings.py)
 
 C. Ask Questions - This is final step after we have completed previous 2 steps
 1. Update the question in ask_question.py
-2. Run python (ask_question.py)
+2. Run python [ask_question.py](ask_question.py)
 
 ```
 ### My tasks
